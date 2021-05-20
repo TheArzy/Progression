@@ -1,0 +1,7 @@
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_4_Progression\1_5_4_Progression\bin\Debug\1_5_4_Progression.exe.config
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_4_Progression\1_5_4_Progression\bin\Debug\1_5_4_Progression.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_4_Progression\1_5_4_Progression\bin\Debug\1_5_4_Progression.pdb
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_4_Progression\1_5_4_Progression\obj\Debug\1_5_4_Progression.csprojAssemblyReference.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_4_Progression\1_5_4_Progression\obj\Debug\1_5_4_Progression.csproj.CoreCompileInputs.cache
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_4_Progression\1_5_4_Progression\obj\Debug\1_5_4_Progression.exe
+C:\Users\TheArzy\Desktop\Proects VS\ZZZаданияZZZ\1_5_4_Progression\1_5_4_Progression\obj\Debug\1_5_4_Progression.pdb
